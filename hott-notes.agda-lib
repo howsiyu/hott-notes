@@ -1,0 +1,4 @@
+name: hott-notes
+include: .
+depend: cubical
+flags: --cubical --no-import-sorts --exact-split --safe
